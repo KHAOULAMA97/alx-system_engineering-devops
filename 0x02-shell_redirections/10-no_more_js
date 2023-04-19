@@ -1,2 +1,2 @@
 #!/bin/bah
-Find space. Space-type space f space-name space"*. js" space -delete
+Find . -type f -name "*. js" -delete
